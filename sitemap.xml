@@ -3,41 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://github.com/wsy555/liuyao/posts/my-first-post/</loc>
+    <loc>https://wsy555.github.io/liuyao/about/</loc>
+    <lastmod>2019-08-17T17:39:08+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wsy555.github.io/liuyao/posts/my-first-post/</loc>
     <lastmod>2019-08-17T17:15:17+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://github.com/wsy555/liuyao/categories/</loc>
+    <loc>https://wsy555.github.io/liuyao/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://github.com/wsy555/liuyao/posts/</loc>
-    <lastmod>2019-08-17T17:15:17+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://github.com/wsy555/liuyao/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://github.com/wsy555/liuyao/tags/%E5%85%AD%E7%88%BB/</loc>
+    <loc>https://wsy555.github.io/liuyao/posts/</loc>
     <lastmod>2019-08-17T17:15:17+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://github.com/wsy555/liuyao/tags/%E5%A2%9E%E5%88%A0%E5%8D%9C%E6%98%93/</loc>
+    <loc>https://wsy555.github.io/liuyao/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wsy555.github.io/liuyao/tags/%E5%85%AD%E7%88%BB/</loc>
     <lastmod>2019-08-17T17:15:17+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://github.com/wsy555/liuyao/</loc>
+    <loc>https://wsy555.github.io/liuyao/tags/%E5%A2%9E%E5%88%A0%E5%8D%9C%E6%98%93/</loc>
     <lastmod>2019-08-17T17:15:17+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wsy555.github.io/liuyao/</loc>
+    <lastmod>2019-08-17T17:39:08+08:00</lastmod>
     <priority>0</priority>
   </url>
   
