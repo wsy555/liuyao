@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>算命的程序猿</title>
+    <title>算命的程序员</title>
     <link>https://wsy555.github.io/liuyao/</link>
-    <description>Recent content on 算命的程序猿</description>
+    <description>Recent content on 算命的程序员</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 18 Aug 2019 20:55:04 +0800</lastBuildDate>
@@ -72,7 +72,7 @@
       <pubDate>Sat, 17 Aug 2019 17:39:08 +0800</pubDate>
       
       <guid>https://wsy555.github.io/liuyao/about/</guid>
-      <description>算命的程序员，每天一个古籍案例学习！</description>
+      <description>我姓程，名序员，字浪的一逼，除了会写代码还会预测算命！</description>
     </item>
     
     <item>
