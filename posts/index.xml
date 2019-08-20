@@ -1,18 +1,44 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on 算命的程序员</title>
+    <title>Posts on 算卦的程序员</title>
     <link>https://wsy555.github.io/liuyao/posts/</link>
-    <description>Recent content in Posts on 算命的程序员</description>
+    <description>Recent content in Posts on 算卦的程序员</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Aug 2019 11:35:54 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 19 Aug 2019 16:06:52 +0800</lastBuildDate>
     
 	<atom:link href="https://wsy555.github.io/liuyao/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>自占病-03</title>
+      <title>自占病-04-元神被克</title>
+      <link>https://wsy555.github.io/liuyao/posts/04/</link>
+      <pubDate>Mon, 19 Aug 2019 16:06:52 +0800</pubDate>
+      
+      <guid>https://wsy555.github.io/liuyao/posts/04/</guid>
+      <description>&lt;p&gt;元神入墓:&lt;/p&gt;
+
+&lt;p&gt;又如丑月戊子日，自占病，得同人之旅。&lt;/p&gt;
+
+&lt;p&gt;推算旬空：戊子（1+12 - 5）= 8 午未空&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;    子孙戌土′应
+
+    妻财申金○   子孙未土
+
+    兄弟午火′
+
+    官鬼亥水′世
+
+    子孙丑土′′
+
+    父母卯木○   子孙辰土
+&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+    
+    <item>
+      <title>自占病-03-用神无根</title>
       <link>https://wsy555.github.io/liuyao/posts/03/</link>
       <pubDate>Mon, 19 Aug 2019 11:35:54 +0800</pubDate>
       
@@ -33,7 +59,7 @@
     </item>
     
     <item>
-      <title>占谒贵求财-02</title>
+      <title>占谒贵求财-02-动不为破,动不为散</title>
       <link>https://wsy555.github.io/liuyao/posts/02/</link>
       <pubDate>Sun, 18 Aug 2019 20:55:04 +0800</pubDate>
       
@@ -56,7 +82,7 @@
     </item>
     
     <item>
-      <title>占父近病-01</title>
+      <title>占父近病-01-近病逢冲即愈</title>
       <link>https://wsy555.github.io/liuyao/posts/01/</link>
       <pubDate>Sun, 18 Aug 2019 16:12:03 +0800</pubDate>
       
